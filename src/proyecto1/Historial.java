@@ -83,7 +83,7 @@ public class Historial extends javax.swing.JFrame {
         jTable1.setModel(new javax.swing.table.DefaultTableModel(
             ParaTabla2(lacuenta),
             new String [] {
-                "ID", "Fecha", "Detalle","Debito","Credito","Saldo Disponible"
+                "ID", "Fecha", "Detalle","Débito","Crédito","Saldo Disponible"
             }
         ));
         jScrollPane1.setViewportView(jTable1);

@@ -42,9 +42,9 @@
                               <Component id="BotonAceptar" min="-2" max="-2" attributes="0"/>
                               <Group type="103" groupAlignment="0" max="-2" attributes="0">
                                   <Component id="CuentaComboOrigen" pref="274" max="32767" attributes="0"/>
-                                  <Component id="jLabel2" min="-2" pref="142" max="-2" attributes="0"/>
-                                  <Component id="jLabel3" alignment="0" min="-2" pref="157" max="-2" attributes="0"/>
                                   <Component id="CuentaComboDestino" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="jLabel2" alignment="0" min="-2" pref="192" max="-2" attributes="0"/>
+                                  <Component id="jLabel3" alignment="0" min="-2" pref="221" max="-2" attributes="0"/>
                               </Group>
                           </Group>
                       </Group>

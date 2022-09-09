@@ -87,7 +87,7 @@ public class MenuPrincipal extends javax.swing.JFrame {
             }
         });
 
-        jButton2.setText("Deposito Monetario");
+        jButton2.setText("Depósito Monetario");
         jButton2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton2ActionPerformed(evt);

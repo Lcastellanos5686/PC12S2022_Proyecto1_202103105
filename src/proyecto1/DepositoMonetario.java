@@ -62,7 +62,7 @@ public class DepositoMonetario extends javax.swing.JFrame {
         setTitle("Deposito Monetario");
 
         jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
-        jLabel1.setText("Deposito Monetario");
+        jLabel1.setText("Depósito Monetario");
 
         CuentaCombo.setModel(new javax.swing.DefaultComboBoxModel<>(ParaComboBox2()[0]));
         CuentaCombo.addActionListener(new java.awt.event.ActionListener() {
